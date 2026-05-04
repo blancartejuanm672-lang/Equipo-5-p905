@@ -10,5 +10,5 @@ function eliminar($lista){
             return;
         }
     }
-    echo"No encontrado\n"; 
+    echo"No encontrado"; 
 }
